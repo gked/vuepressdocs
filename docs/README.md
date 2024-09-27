@@ -27,5 +27,5 @@ features:
   - title: Cross-platform
     details: Bastyon is available for iOS and Android devices, as a desktop app, and via web browsers.
 
-footer: Apache License 2.0 | Copyright © 2019-present Bastyon
+footer: Apache License-2.0 | Copyright © 2019-present Bastyon
 ---
